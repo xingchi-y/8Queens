@@ -39,5 +39,5 @@ There are C(8, 2) = 28 possible pairs of queens. We can calculate the actual att
 		I used single-point crossover, select a random crossover point k, swap genetic material to create two children
     
 (5)Mutation
-			
-      ```MutationPct = 0.2```
+
+```MutationPct = 0.2```
